@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 * {
     margin: 0;
     padding: 0;
@@ -256,3 +259,24 @@ section.first > div :nth-child(1){
 /* section.first:nth-child(1) img {
     transform: translateY(30px);
 } */
+ footer {
+    width: 80vw;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+ }
+.right {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 10px;
+    
+ }
+.left img {
+    width: 50px;
+    height: 100%;
+    position: relative;
+    left: 100px;
+ }
