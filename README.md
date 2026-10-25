@@ -8,7 +8,7 @@
 ### You can click on get started to view the monsters page or you can scroll down, Also to view the 404 error page you have to click on the about button in the navbar.
 
 ## Demo Link:
-### (Monster's Website)[https://shayanazfar.github.io/Monsters-Website/]
+### [Monster's Website](https://shayanazfar.github.io/Monsters-Website/)
 
 <img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/5ce9e553-6660-4e22-a057-1f7cf25306a5" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ab2ed536-ad92-4b5c-bd36-53f082a30cac" />
