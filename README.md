@@ -1,5 +1,5 @@
 # Monsters Website
-## A normal website in the Monster's World...
+## A normal website in the Monster's World... A website that introduces different monsters that have different personalities in the spooky monster world.
 
 ## Description:
 ### Its a spooky webpage showcasing random monster and their details. Made from Pure Vanilla HTML and CSS, i have also added navbar, hero pages, 404 error page and added favicon icon to the page. By adding favicon logo to your website, you can see your website logo in the tabs section.
