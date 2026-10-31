@@ -8,7 +8,7 @@
 ### I made this webpage to increase my command in front-end development more, and enhance my coding particularly in HTML and CSS.
 
 ## How to use?
-### You can click on get started to view the monsters page or you can scroll down, Also to view the 404 error page you have to click on the about button in the navbar.
+### You can click on get started to view the monsters page or you can scroll down, Also to view the 404 error page you have to click on the about button in the navbar or footer.
 
 ## Inspiration 
 ### My previous project of 3am, Where i made Monster Cards.
